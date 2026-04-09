@@ -7,4 +7,4 @@
 - 🎧 Likes phonk music
 
 <h4 align="center">Visitor's Count</h4>
-<p align="center"><img src="https://count.getloli.com/@liaaa?name=liaaa&theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=0"/></p>
+<p align="center"><img src="https://count.getloli.com/@vermei?theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=0"/></p>
