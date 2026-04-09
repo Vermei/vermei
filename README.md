@@ -28,7 +28,7 @@ just playing around ( ・ ∀ ・ )
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github.com/vermei"><img src="https://streak-stats.demolab.com/?user=vermei&theme=chartreuse-dark">
+<img src="https://streak-stats.demolab.com/?user=vermei&theme=chartreuse-dark">
 </p>
 
 ---
