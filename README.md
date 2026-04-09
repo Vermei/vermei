@@ -28,7 +28,7 @@ just playing around ( ・ ∀ ・ )
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vermei&show_icons=true&theme=tokyonight">
+<img src="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark">
 </p>
 
 <p align="center">
